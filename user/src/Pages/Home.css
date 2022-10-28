@@ -3,8 +3,8 @@
     margin: auto;
     font-size: 0.9em;
     font-family: sans-serif;
-    max-width: 800px;
-    box-shadow: 0 0 20px rgb(0,0 ,0, 0.15);
+    max-width: 900px;
+    box-shadow: 0 0 20px rgb(0, 0, 0, 0.15);
 }
 .styled-table thead tr{
     background-color: #009879;
@@ -43,9 +43,9 @@
     background-color:#f44336;
 }
 .btn-view{
-    background-color: #e7e7e7;
-    color: black;
+    background-color:#0a6c58;
 }
 .btn-Add{
     background-color:blue;
+    margin-left: 45%;    
 }

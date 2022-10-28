@@ -13,10 +13,10 @@ function App() {
      <div className="App">
      <ToastContainer position='top-center'/>
      <Switch>
-      <Route exact path="/" component={Home}/>
-      <Route  path="/addUser" component={AddEdit}/>
-      <Route  path="/update/:id" component={AddEdit}/>
-      <Route  path="/view/:id" component={View}/>
+        <Route exact path="/" component={Home}/>
+        <Route  path="/add" component={AddEdit}/>
+        <Route  path="/update/:id" component={AddEdit}/>
+        <Route  path="/view/:id" component={View}/>
      </Switch>
      </div>
     </Routes>

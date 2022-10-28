@@ -25,7 +25,7 @@ const Home = () => {
 
     return (
         <div style={{ marginTop: "150px" }}>
-            <Link to="/addUser"><button type="button" className="btn btn-Add">Add User</button></Link>
+            <Link to="/add"><button type="button" className="btn btn-Add">Add User</button></Link>
             <table className='styled-table'>
                 <thead>
                     <tr>

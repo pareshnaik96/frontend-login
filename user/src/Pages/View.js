@@ -17,10 +17,8 @@ const {id} = useParams()
   return (
     <div style={{marginTop:"150px"}}>
       <div className='card'>
-        <div className='card-header'>
-          <p>User details</p>
-        </div>
-          <div className='container'>
+        <div className='card-header'><p>User details</p></div>
+          <div className='card-container'>
             <strong>ID: </strong>
             <span>{id}</span>
             <br/>

@@ -25,16 +25,7 @@ form input:hover{
     border-color: #001d3d;
     border-radius: 2px;
 }
-.btn{
-    background-color: #001d3d;
-    padding:5px 15px;
-    color: #fff;
-    font-size: 18px;
-    min-width: 150px;
-    margin: 5px 5px;
-    border-radius: 100px;
-    transition: 0.5s;
-}
+
 .btn:hover{
     background-color: #023047;
     cursor: pointer;
